@@ -85,6 +85,7 @@
 | 3️⃣ | Claude Code 101 | Anthropic | 2026 |
 | 4️⃣ | Claude 101 | Anthropic | 2026 |
 | 5️⃣ | Fundamentals of Drone Systems & AI/ML for Drone Vision | MeitY × IIT Goa (Center for Drone Applications) | Jan 2026 |
+| 6️⃣ | GenAI Powered Data Analytics Job Simulation | Tata × Forage | June 2026 |
 
 ---
 
