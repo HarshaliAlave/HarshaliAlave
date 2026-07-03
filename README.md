@@ -78,17 +78,17 @@
 
 ## 🏆 Certificates
 
-### 🤖 AI & Data Science — IBM (via Coursera)
+### 🤖 AI & Data Science — IBM SkillsBuild
 
 | # | Certificate | Issuer |
 |---|---|---|
-| 1️⃣ | What is Data Science? | IBM |
-| 2️⃣ | Tools for Data Science | IBM |
-| 3️⃣ | Python for Data Science, AI & Development | IBM |
-| 4️⃣ | Data Analysis with Python | IBM |
-| 5️⃣ | Data Visualization with Python | IBM |
-| 6️⃣ | Machine Learning with Python | IBM |
-| 7️⃣ | Databases and SQL for Data Science with Python | IBM |
+| 1️⃣ | What is Data Science? | IBM SkillsBuild |
+| 2️⃣ | Tools for Data Science | IBM SkillsBuild |
+| 3️⃣ | Python for Data Science, AI & Development | IBM SkillsBuild |
+| 4️⃣ | Data Analysis with Python | IBM SkillsBuild |
+| 5️⃣ | Data Visualization with Python | IBM SkillsBuild |
+| 6️⃣ | Machine Learning with Python | IBM SkillsBuild |
+| 7️⃣ | Databases and SQL for Data Science with Python | IBM SkillsBuild |
 
 ### 🏅 Other Certifications
 
