@@ -78,20 +78,36 @@
 
 ## 🏆 Certificates
 
+### 🤖 AI & Data Science — IBM (via Coursera)
+
+| # | Certificate | Issuer |
+|---|---|---|
+| 1️⃣ | What is Data Science? | IBM |
+| 2️⃣ | Tools for Data Science | IBM |
+| 3️⃣ | Python for Data Science, AI & Development | IBM |
+| 4️⃣ | Data Analysis with Python | IBM |
+| 5️⃣ | Data Visualization with Python | IBM |
+| 6️⃣ | Machine Learning with Python | IBM |
+| 7️⃣ | Databases and SQL for Data Science with Python | IBM |
+
+### 🏅 Other Certifications
+
 | # | Certificate | Issuer | Date |
 |---|---|---|---|
-| 1️⃣ | Data Analytics Job Simulation | Deloitte × Forage | June 2026 |
-| 2️⃣ | Artificial Intelligence (60+ hrs, Grade A) — Lenovo LEAP NextGen Scholar Program | Lenovo × BharatCares | June 2026 |
-| 3️⃣ | Claude Code 101 | Anthropic | 2026 |
-| 4️⃣ | Claude 101 | Anthropic | 2026 |
-| 5️⃣ | Fundamentals of Drone Systems & AI/ML for Drone Vision | MeitY × IIT Goa (Center for Drone Applications) | Jan 2026 |
-| 6️⃣ | GenAI Powered Data Analytics Job Simulation | Tata × Forage | June 2026 |
+| 1️⃣ | Software Engineer Intern Role Certification | HackerRank | Jul 2026 |
+| 2️⃣ | Data Analytics Job Simulation | Deloitte × Forage | Jun 2026 |
+| 3️⃣ | GenAI Powered Data Analytics Job Simulation | Tata × Forage | Jun 2026 |
+| 4️⃣ | Artificial Intelligence (60+ hrs, Grade A) | Lenovo × BharatCares (AICTE) | Jun 2026 |
+| 5️⃣ | Claude Code 101 — Agentic Coding with Claude | Anthropic | 2026 |
+| 6️⃣ | Claude 101 — Introduction to Claude AI | Anthropic | 2026 |
+| 7️⃣ | Fundamentals of Drone Systems & AI/ML for Drone Vision | MeitY × IIT Goa | Jan 2026 |
 
 ---
 
 ## 🙌 Extra Activities
 
-- 🎪 Volunteered at Quantexera — a national-level tech fest organized by YBIT, Sawantwadi
+- 🎪 **Volunteer & Media Host** — Quantexera National Level Technical Fest, YBIT: anchored the event and coordinated logistics
+- 🎓 **University Representative** — 58th Youth Festival, Mumbai University — Group B English Debate Competition
 
 ---
 
@@ -110,8 +126,6 @@
 ![snake gif](https://raw.githubusercontent.com/HarshaliAlave/HarshaliAlave/output/github-contribution-grid-snake.svg)
 
 </div>
-
-> 💡 **Setup note:** this snake image needs a one-time GitHub Action in your profile repo (`HarshaliAlave/HarshaliAlave`) to generate it automatically. See the "How to enable the snake" section below.
 
 ---
 
